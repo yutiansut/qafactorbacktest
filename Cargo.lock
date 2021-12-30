@@ -3503,6 +3503,7 @@ dependencies = [
  "itertools",
  "polars",
  "qapro-rs",
+ "rand 0.8.4",
  "stopwatch",
 ]
 
